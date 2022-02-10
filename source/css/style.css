@@ -167,7 +167,7 @@ html {
   font-weight: 700;
   letter-spacing: 0.06em;
   color: #ffffff;
-  border: 2px solid #ffffff;
+  border: 1px solid #ffffff;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -569,7 +569,7 @@ html {
   display: inline-block;
   margin: 0 auto;
   margin-top: calc(30px + (81 - 30) * ((100vw - 320px) / (1920 - 320)));
-  border: 2px solid black;
+  border: 1px solid black;
   color: black;
 }
 
